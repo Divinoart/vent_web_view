@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581388862073",
+    "project_id": "vent-app-ae15d",
+    "storage_bucket": "vent-app-ae15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581388862073:android:766142f2b37a9b889a8aa8",
+        "android_client_info": {
+          "package_name": "app.vent.vent_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581388862073-5hnucj35q5aaqvhhpkf71kpb08s8ev4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3cGvh7FJ2pnk87MyvuyhP2LBIRNskZIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581388862073-5hnucj35q5aaqvhhpkf71kpb08s8ev4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
